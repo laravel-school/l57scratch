@@ -81,8 +81,12 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laracasts
                 </div>
+
+                <p>
+                    <a href="/contact">Contact Us</a>
+                </p>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
